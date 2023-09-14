@@ -1,0 +1,10 @@
+(library
+ (name typecheck)
+ (wrapped true)
+ (libraries utils language core env auxtyping subtyping normalization)
+ (modules
+   baux
+   bidirectional
+   infer_ghost
+   typecheck
+))

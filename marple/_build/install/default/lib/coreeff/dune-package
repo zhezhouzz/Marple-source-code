@@ -1,0 +1,4 @@
+(lang dune 3.7)
+(name coreeff)
+(sections (lib .) (doc ../../doc/coreeff))
+(files (lib (META dune-package opam)) (doc (README.md)))

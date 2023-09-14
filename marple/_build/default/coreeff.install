@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/coreeff/META"
+  "_build/install/default/lib/coreeff/dune-package"
+  "_build/install/default/lib/coreeff/opam"
+]
+doc: [
+  "_build/install/default/doc/coreeff/README.md"
+]
